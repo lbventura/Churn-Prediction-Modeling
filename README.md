@@ -1,4 +1,4 @@
-A step-by-step exposition of how to build a bank customer churn prediction model. We have provided the reader with considerable detail for pedagogical purposes.
+A step-by-step exposition of how to build a bank customer churn prediction model. We have provided the reader with considerable detail for pedagogical purposes. Inference is also carried out by using several statistical tests and Logistic Regression.
 
 The main conclusions are:
 
